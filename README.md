@@ -60,3 +60,15 @@ $ expo start
 
 Assim que o processo terminar, automaticamente será aberta uma página no seu navegador `localhost:92002`. 
 Conecte seu celular com o aplicativo Expo que pode ser baixado na Play Store ou App Store em seguida escaneie o código QR :blush:
+
+## :art: Melhorias
+
+Algumas melhorias no layout foram feitas para melhor usabilidade na web.
+
+## :bookmark: Gostaria de contribuir?
+
+- Fork este repositório
+- Crie uma branch com a sua feature: ``git checkout -b my-feature``
+- Adicione suas mudanças: ``git add .``
+- Commit suas mudanças: ``git commit -m "your-message"``
+- Push a sua branch: ``git push origin my-feature``
